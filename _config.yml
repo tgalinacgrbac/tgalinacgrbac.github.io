@@ -23,22 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Tihana.jpg"
+  name             : "Tihana Galinac Grbac, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Professor of Computer Science"
+  location         : "Pula, Croatia"
+  employer         : "Juraj Dobrila University of Pula"
+  uri              : "http://tania.unipu.hr/~tgalinac/"
+  email            : "tihana.galinac@unipu.hr" 
 
   # Academic websites
-  academia         : # URL
+  academia         :  "https://tfpu.unipu.hr/tfpu/en/tihana.galinac_grbac"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4351-4082"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
