@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 [EQUISYS](https://www.unipu.hr/nrrp/en/projects/equisys) - Human-Centered System Design for Equitable and Sustainable Digital Societies
+
+[SUSTRAINABLE](https://sustrainable.github.io/about.html) - SusTrainable: Promoting Sustainability as a Fundamental Driver in Software Development Training and Education.
