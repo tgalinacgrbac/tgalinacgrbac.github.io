@@ -46,7 +46,7 @@ Collaboration with industry and public-sector partners is a central part of my r
 1. **Reliability and Safety in Complex Software Systems - RELYSOFT (2020-2024)**  
    Principal Investigator; empirical and model-based research with strong application relevance. Supported by Ercisson Nikola Tesla and Danieli Systec.
 2. **Evolving Software Systems - EVOSOFT (2015-2018)**  
-   Principal Investigator; methods and approaches for smart management of evolving software systems. Co-founded by Ercisson Nikola Tesla.
+   Principal Investigator; methods and approaches for smart management of evolving software systems. Co-funded by Ercisson Nikola Tesla.
 3. **Laboratory and Educational Support in ICT Technologies (2012-2018)**  
    Principal Investigator; long-term collaboration with industry funded by Ericsson Nikola Tesla.
 
