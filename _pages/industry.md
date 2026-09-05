@@ -30,13 +30,13 @@ Collaboration with industry and public-sector partners is a central part of my r
 
 ### Telecommunications and Software Engineering Practice
 
-1. **Ericsson Nikola Tesla R&D Programs (2000-2007)**  
+1. **Ericsson Nikola Tesla R&D Programs - Ericsson Solution for Core Network Evolution (2000-2007)**  
    Roles across global software projects: project leader, technical coordinator, system manager, system engineer, software engineer, lecturer, and leader of apprentice courses.
-2. **Code Review One Track (Agile) (2006-2007)**  
+2. **Ericsson Operational Excellence Progam - Code Review One Track (Agile) (2006-2007)**  
    Global operational excellence initiative for software development process improvement.
-3. **Better Fault Detection - Six Sigma Project (2005-2006)**  
+3. **Ericsson Operational Excellence Progam - Better Fault Detection - Six Sigma Project (2005-2006)**  
    Early defect detection in complex software systems; project leader and Six Sigma Black Belt.
-4. **Capability Maturity Model Integrated (CMMI) Benefits (2005)**  
+4. **Ericsson Nikola Tesla Operational Excellence Progam - Capability Maturity Model Integrated (CMMI) Benefits (2005)**  
    Software process improvement initiative at Ericsson Nikola Tesla.
 
 ### Industry-Supported Academic Collaboration
