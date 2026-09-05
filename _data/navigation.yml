@@ -19,6 +19,9 @@ main:
 
   - title: "Industry collaboration"
     url: /industry/  
+
+  - title: "RA Workshop II"
+    url: /workshop/  
     
   - title: "Talks"
     url: /talks/ 
