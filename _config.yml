@@ -34,16 +34,16 @@ author:
 
   # Academic websites
   academia         :  "https://tfpu.unipu.hr/tfpu/en/tihana.galinac_grbac"
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Grbac%2C+T+G"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZC5pz7UAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4351-4082"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  %pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Tihana-Galinac-Grbac"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57202354149"
   zotero           : # URL
 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/tihana-galinac-grbac-5ba8116/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
