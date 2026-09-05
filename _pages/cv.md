@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Download full CV (PDF): [Galinac_Grbac_Tihana_CVen_May_2024.pdf](/files/Galinac_Grbac_Tihana_CVen_May_2024.pdf)
+
+<div style="display:none;">
+
 ## Curriculum Vitae
 
 The CV page is currently being updated.
-
-- Download full CV (PDF): [Galinac_Grbac_Tihana_CVen_May_2024.pdf](/files/Galinac_Grbac_Tihana_CVen_May_2024.pdf)
 
 ## Selected Publications
 
@@ -32,3 +34,5 @@ The CV page is currently being updated.
 <ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+</div>
