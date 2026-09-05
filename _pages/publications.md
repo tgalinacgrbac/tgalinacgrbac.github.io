@@ -25,7 +25,7 @@ author_profile: true
     }
 </style>
 
-My publications list is available on [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ).
+My publications list is available on [Google Scholar](https://scholar.google.com/citations?user=ZC5pz7UAAAAJ&hl=en).
 
 Selected publications from the CV (May 2024):
 
@@ -90,8 +90,8 @@ Selected publications from the CV (May 2024):
 </section>
 
 
-{% include base_path %}
+%{% include base_path %}
 
-{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %}
+%{% for post in %site.publications reversed %}
+%    {% include archive-single-%cv.html %}
+%{% endfor %}
