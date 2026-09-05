@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Tihana Galinac Grbac",
+    "email": "tihana.galinac@unipu.hr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "http://tania.unipu.hr/~tgalinac/",
+    "summary": "Full Professor of Computer Science at Juraj Dobrila University of Pula and head of the Software Engineering and Information Processing Laboratory (SEIP Lab).",
     "location": {
-      "address": "",
+      "address": "Zagrebacka 30",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Pula",
+      "countryCode": "HR",
       "region": ""
     },
     "profiles": [
@@ -21,41 +21,46 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-4351-4082"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "tgalinacgrbac",
+        "url": "https://github.com/tgalinacgrbac"
+      },
+      {
+        "network": "Scopus",
+        "username": "57202354149",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=57202354149"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Zagreb, Croatia",
+      "area": "Ph.D.",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2009",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Zagreb, Croatia",
+      "area": "M.Sc.",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2005",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Zagreb, Croatia",
+      "area": "Dipl. Ing.",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2000",
       "gpa": null,
       "courses": []
     }

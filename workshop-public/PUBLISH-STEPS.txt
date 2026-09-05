@@ -1,0 +1,39 @@
+Publish this workshop page as a separate public GitHub Pages site.
+
+1) Create a new public repository on GitHub
+- Name suggestion: ra-workshop-ii
+- Owner: your account
+- Visibility: Public
+- Do not initialize with README (optional)
+
+2) In your local terminal, run these commands exactly:
+
+cd C:/Users/tiki/Documents/CV/Github
+mkdir ra-workshop-ii
+cd ra-workshop-ii
+git init
+git branch -M main
+copy ../tgalinacgrbac.github.io/workshop-public/index.html index.html
+copy ../tgalinacgrbac.github.io/files/MIPRO2026.pdf MIPRO2026.pdf
+git add index.html MIPRO2026.pdf
+git commit -m "Initial workshop announcement page"
+git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/ra-workshop-ii.git
+git push -u origin main
+
+3) Enable GitHub Pages in the new repo
+- Open repo on GitHub
+- Settings -> Pages
+- Build and deployment: Deploy from a branch
+- Branch: main
+- Folder: /(root)
+- Save
+
+4) Public URL
+https://<YOUR_GITHUB_USERNAME>.github.io/ra-workshop-ii/
+
+5) Optional custom workshop URL
+- Use a custom domain in Settings -> Pages (if you have one)
+
+Notes:
+- This keeps your personal website work private/unpublished.
+- You can update this workshop page any time with normal git add/commit/push.
