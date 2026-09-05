@@ -1,0 +1,98 @@
+{
+  "Sinaia, Romania": {
+    "lat": 45.3455492,
+    "lon": 25.5481496
+  },
+  "Rome, Italy": {
+    "lat": 41.8933203,
+    "lon": 12.4829321
+  },
+  "Budapest, Hungary": {
+    "lat": 47.481849,
+    "lon": 19.1449053
+  },
+  "London, United Kingdom": {
+    "lat": 51.5074456,
+    "lon": -0.1277653
+  },
+  "Pula, Croatia": {
+    "lat": 44.8702281,
+    "lon": 13.8455311
+  },
+  "Bohinj, Slovenia": {
+    "lat": 46.3020337,
+    "lon": 13.9090155
+  },
+  "Ljubljana, Slovenia": {
+    "lat": 46.0500268,
+    "lon": 14.5069289
+  },
+  "Lovran, Croatia": {
+    "lat": 45.2916807,
+    "lon": 14.2762597
+  },
+  "Lund, Sweden": {
+    "lat": 55.7029296,
+    "lon": 13.1929449
+  },
+  "Opatija, Croatia": {
+    "lat": 45.3349238,
+    "lon": 14.3067834
+  },
+  "Jahorina (Sarajevo), Bosnia and Herzegovina": {
+    "lat": 43.722678,
+    "lon": 18.5976413
+  },
+  "Bilbao, Spain": {
+    "lat": 43.2630018,
+    "lon": -2.9350039
+  },
+  "Novi Sad, Serbia": {
+    "lat": 45.2551338,
+    "lon": 19.8451756
+  },
+  "Rijeka, Croatia": {
+    "lat": 45.3267976,
+    "lon": 14.442208
+  },
+  "Kosice, Slovakia": {
+    "lat": 48.7172272,
+    "lon": 21.2496774
+  },
+  "Maribor, Slovenia": {
+    "lat": 46.5576439,
+    "lon": 15.6455854
+  },
+  "Nijmegen, The Netherlands": {
+    "lat": 51.8474946,
+    "lon": 5.8637771
+  },
+  "Gandia, Spain": {
+    "lat": 38.9675925,
+    "lon": -0.1803423
+  },
+  "Plovdiv, Bulgaria": {
+    "lat": 42.1418541,
+    "lon": 24.7499297
+  },
+  "Coimbra, Portugal": {
+    "lat": 40.2111874,
+    "lon": -8.4291478
+  },
+  "Linz, Austria": {
+    "lat": 48.3059078,
+    "lon": 14.286198
+  },
+  "Bansko, Bulgaria": {
+    "lat": 41.8344086,
+    "lon": 23.4841698
+  },
+  "Dusseldorf, Germany": {
+    "lat": 51.2254018,
+    "lon": 6.7763137
+  },
+  "Larnaca, Cyprus": {
+    "lat": 34.9236095,
+    "lon": 33.6236184
+  }
+}
