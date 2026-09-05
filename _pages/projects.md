@@ -7,12 +7,9 @@ redirect_from:
   - /projects.md
 ---
 
-[EQUISYS](https://www.unipu.hr/nrrp/en/projects/equisys) - Human-Centered System Design for Equitable and Sustainable Digital Societies
-
-[SUSTRAINABLE](https://sustrainable.github.io/about.html) - SusTrainable: Promoting Sustainability as a Fundamental Driver in Software Development Training and Education.
-
 ## Selected Research Projects
 
+- **EQUYSIS (2026-2030):** Human-Centered System Design for Equitable and Sustainable Digital Societies. Principal Investigator, European Union NextGenerationEU under Juraj Dobrila University of Pula institutional research projects.
 - **RELYSOFT (2020-2024):** Reliability and Safety in Complex Software Systems: from Empirical Principles towards Theoretical Models in View of Industrial Applications. Principal Investigator, Croatian Science Foundation.
 - **SusTrainable (2020-2023):** Promoting Sustainability as a Fundamental Driver in Software Development Training and Education. Croatian Principal Investigator, Erasmus+.
 - **EVOSOFT (2015-2018):** Evolving Software Systems: Analysis and Innovative Approaches for Smart Management. Principal Investigator, Croatian Science Foundation.
