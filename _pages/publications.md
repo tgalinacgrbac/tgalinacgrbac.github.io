@@ -90,8 +90,8 @@ Selected publications from the CV (May 2024):
 </section>
 
 
-%{% include base_path %}
+{% include base_path %}
 
-%{% for post in %site.publications reversed %}
-%    {% include archive-single-%cv.html %}
-%{% endfor %}
+{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+{% endfor %}
