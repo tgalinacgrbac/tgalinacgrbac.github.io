@@ -33,9 +33,8 @@ Selected publications from the CV (May 2024):
     <h2>Selected Journal Publications</h2>
     <ol>
         <li>
-            <div class="pub-title">Letter to the editor: on the paper "The double Pareto-Lognormal distribution - a new parametric model for size distributions" and its correction</div>
-            <div class="pub-meta">Grbac, N.; Galinac Grbac, T. Communications in Statistics - Theory and Methods, 53(11), 4207-4209, 2024.</div>
-            <div class="pub-doi"><a href="https://doi.org/10.1080/03610926.2023.2174788">DOI: 10.1080/03610926.2023.2174788</a></div>
+            <div class="pub-title">Supervisory Layer Information Integration for Context-Adaptive Control-Room HMI: A Steel Production Case Study</div>
+            <div class="pub-meta">Šverko, Mladen; Galinac Grbac, Tihana; Matijašević, Maja. Available at SSRN: <a href="https://ssrn.com/abstract=6616872">https://ssrn.com/abstract=6616872</a> or <a href="https://dx.doi.org/10.2139/ssrn.6616872">http://dx.doi.org/10.2139/ssrn.6616872</a>. Manuscript under review.</div>
         </li>
         <li>
             <div class="pub-title">The telehealth dilemma - Health-care deserts meet Internet's remote regions</div>
