@@ -16,7 +16,7 @@ redirect_from:
 **Towards Cross-Domain Evidence, Comparative Studies, and Systematic Adoption Frameworks**
 
 > **Workshop Quick Info**  
-> **Date:** To be defined  
+> **Date:** Friday, 18.09.2026, 14:30–16:00  
 > **Venue:** Split, Croatia  
 > **Conference Context:** Co-located with SoftCOM 2026  
 > **Official SoftCOM 2026 website:** https://2026.softcom.fesb.unist.hr/  
@@ -109,8 +109,13 @@ Co-Chair and Framework Co-Developer
 University of Split, Croatia  
 SOFTCOM Workshop Co-Chair
 
-**Additional international scientific organizers**  
-To be announced following confirmation.
+**Ana Milanova**  
+Department of Computer Science, Rensselaer Polytechnic Institute, New York, USA  
+Invited international collaborator
+
+**Dražen Brščić**  
+Graduate School of Informatics, Kyoto University, Kyoto, Japan  
+Invited international collaborator
 
 The workshop initiative originates from the EQUISYS research project at Juraj Dobrila University of Pula and is being developed in collaboration with an international network of researchers.
 
