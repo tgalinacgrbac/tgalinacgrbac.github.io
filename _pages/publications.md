@@ -108,9 +108,10 @@ Selected publications from the CV (May 2024):
     </ol>
 </section>
 
-
+{% comment %}
 {% include base_path %}
 
 {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}
+{% endcomment %}
