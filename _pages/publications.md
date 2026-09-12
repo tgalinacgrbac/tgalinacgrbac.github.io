@@ -67,7 +67,7 @@ Selected publications from the CV (May 2024):
         </li>
         <li>
             <div class="pub-title">Human-Centered Adoption of LLMs in Industry and Society: Challenges, Opportunities, and Systemic Implications</div>
-            <div class="pub-meta">Tihana Galinac Grbac, Darko Huljenić, MIPRO 2026.</div>
+            <div class="pub-meta">Galinac Grbac, T., Darko Huljenić, MIPRO 2026.</div>
             <div class="pub-doi"><a href="/files/MIPRO2026.pdf">Author manuscript (PDF)</a></div>
         </li>
         <li>
@@ -85,12 +85,7 @@ Selected publications from the CV (May 2024):
             <div class="pub-meta">Galinac Grbac, T.; Domazet, N. LNCS 11950, 2023.</div>
             <div class="pub-doi"><a href="https://doi.org/10.1007/978-3-031-42833-3_5">DOI: 10.1007/978-3-031-42833-3_5</a></div>
         </li>
-        <li>
-            <div class="pub-title">Integrating SDN and NFV with QoS-aware service composition</div>
-            <div class="pub-meta">Cardellini, V.; Galinac Grbac, T.; Kassler, A.; et al. In Autonomous Control for a Reliable Internet of Services, 2018.</div>
-            <div class="pub-doi"><a href="https://doi.org/10.1007/978-3-319-90415-3_9">DOI: 10.1007/978-3-319-90415-3_9</a></div>
-        </li>
-        <li>
+         <li>
             <div class="pub-title">Performance optimization in transition toward open industrial control systems</div>
             <div class="pub-meta">Sverko, M.; Galinac Grbac, T.; Huljenic, D. SoftCOM 2023.</div>
             <div class="pub-doi"><a href="https://doi.org/10.23919/SoftCOM58365.2023.10271622">DOI: 10.23919/SoftCOM58365.2023.10271622</a></div>
@@ -104,6 +99,11 @@ Selected publications from the CV (May 2024):
             <div class="pub-title">Complex systems - network component security of SCADA systems</div>
             <div class="pub-meta">Sverko, M.; Galinac Grbac, T. MIPRO 2021.</div>
             <div class="pub-doi"><a href="https://doi.org/10.23919/MIPRO52101.2021.9596701">DOI: 10.23919/MIPRO52101.2021.9596701</a></div>
+        </li>
+               <li>
+            <div class="pub-title">Integrating SDN and NFV with QoS-aware service composition</div>
+            <div class="pub-meta">Cardellini, V.; Galinac Grbac, T.; Kassler, A.; et al. In Autonomous Control for a Reliable Internet of Services, 2018.</div>
+            <div class="pub-doi"><a href="https://doi.org/10.1007/978-3-319-90415-3_9">DOI: 10.1007/978-3-319-90415-3_9</a></div>
         </li>
     </ol>
 </section>
