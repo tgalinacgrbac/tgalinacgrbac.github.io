@@ -61,6 +61,26 @@ Selected publications from the CV (May 2024):
     <h2>Selected Conference and Book-Chapter Publications</h2>
     <ol>
         <li>
+            <div class="pub-title">Towards an Architecture Theory for Trustworthy Operational Knowledge Construction</div>
+            <div class="pub-meta">Nedeljković, E.; Galinac Grbac, T. SQAMIA 2026.</div>
+            <div class="pub-doi"><a href="/files/SQAMIA2026.pdf">Author manuscript (PDF)</a></div>
+        </li>
+        <li>
+            <div class="pub-title">Human-Centered Adoption of LLMs in Industry and Society: Challenges, Opportunities, and Systemic Implications</div>
+            <div class="pub-meta">Tihana Galinac Grbac, Darko Huljenić, MIPRO 2026.</div>
+            <div class="pub-doi"><a href="/files/MIPRO2026.pdf">Author manuscript (PDF)</a></div>
+        </li>
+        <li>
+            <div class="pub-title">Human-Centered Exploration of Organizational Readiness for AI Adoption Before Deployment</div>
+            <div class="pub-meta">Galinac Grbac, T.; Lacmanović, S.; Kontošić Pamić, R. Softcom 2026.</div>
+            <div class="pub-doi"><a href="/files/Softcom2026.pdf">Author manuscript (PDF)</a></div>
+        </li>
+        <li>
+            <div class="pub-title">Private Off-chain Resource Tracking and Orchestration: An Actor-Model Approach to Zero-Knowledge Computation</div>
+            <div class="pub-meta">Kathiravelu, P.; Galinac Grbac, T. ISSE 2026.</div>
+            <div class="pub-doi"><a href="/files/ISSE2026_PORTO.pdf">Author manuscript (PDF)</a></div>
+        </li>
+        <li>
             <div class="pub-title">The role of functional programming in management and orchestration of virtualized network resources. Part II</div>
             <div class="pub-meta">Galinac Grbac, T.; Domazet, N. LNCS 11950, 2023.</div>
             <div class="pub-doi"><a href="https://doi.org/10.1007/978-3-031-42833-3_5">DOI: 10.1007/978-3-031-42833-3_5</a></div>
