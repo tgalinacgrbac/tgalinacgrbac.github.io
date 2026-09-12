@@ -119,14 +119,9 @@ Invited international collaborator
 
 The workshop initiative originates from the EQUISYS research project at Juraj Dobrila University of Pula and is being developed in collaboration with an international network of researchers.
 
-## Paper
+## References
 
+[1] T. Galinac Grbac and D. Huljenic, "Human-Centered Adoption of LLMs in Industry and Society: Challenges, Opportunities, and Systemic Implications," 2026 49th MIPRO ICT and Electronics Convention (MIPRO), Opatija, Croatia, 2026, pp. 2096-2100.
 - Author manuscript (local copy): [MIPRO2026 (PDF)](/files/MIPRO2026.pdf)
 - Published version on IEEE Xplore: [Document 11592062](https://ieeexplore.ieee.org/document/11592062)
 - DOI: [10.1109/MIPRO70003.2026.11592062](https://doi.org/10.1109/MIPRO70003.2026.11592062)
-
-Rights note: this local file should be the author manuscript version. The IEEE published PDF should only be posted if your signed publishing terms explicitly allow it.
-
-## References
-
-[1] T. Galinac Grbac and D. Huljenic, "Human-Centered Adoption of LLMs in Industry and Society: Challenges, Opportunities, and Systemic Implications," 2026 49th MIPRO ICT and Electronics Convention (MIPRO), Opatija, Croatia, 2026, pp. 2096-2100. DOI: [10.1109/MIPRO70003.2026.11592062](https://doi.org/10.1109/MIPRO70003.2026.11592062). IEEE Xplore: [Document 11592062](https://ieeexplore.ieee.org/document/11592062).
