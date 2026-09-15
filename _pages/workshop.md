@@ -19,11 +19,30 @@ redirect_from:
 > **Date:** Friday, 18.09.2026, 14:30–16:00  
 > **Venue:** Split, Croatia  
 > **Conference Context:** Co-located with SoftCOM 2026  
+> **Registration:** No additional registration fee applies to the workshop.  
 > **Official SoftCOM 2026 website:** https://2026.softcom.fesb.unist.hr/  
 > **SoftCOM 2026 dates:** 17-19 September 2026  
 > **Paper submission system (EDAS):** https://edas.info/newPaper.php?c=34571&track=140155
 
 **Following the SOFTCOM keynote discussion on autonomous AI agents, trust, governance, and changing human roles, the afternoon Research Alignment Workshop broadens the discussion towards systematic and human-centered adoption of LLM-based technologies across application domains.** See the [SOFTCOM 2026 conference timetable](https://2026.softcom.fesb.unist.hr/program/) for the keynote and workshop schedule.
+
+## Timetable
+
+**14:30–14:40 – Introduction and Research Framework**
+
+*From the MIPRO pilot study towards cross-domain comparative research on human-centered LLM adoption*
+
+**14:40–15:15 – Case-Study Presentations**
+
+*Selected LLM applications from different domains reflected through a common analytical framework*
+
+**15:15–15:45 – Structured Reflection and Moderated Cross-Domain Discussion**
+
+*Recurring human-centered and socio-technical challenges, benefits, evaluation approaches, transferability, and limitations of the proposed analytical framework*
+
+**15:45–16:00 – Framework Refinement and Future Research**
+
+*Synthesis of observations and discussion of future research and publication opportunities*
 
 # Call for Participation
 
