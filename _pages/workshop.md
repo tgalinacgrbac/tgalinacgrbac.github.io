@@ -117,6 +117,10 @@ Invited international collaborator
 Graduate School of Informatics, Kyoto University, Kyoto, Japan  
 Invited international collaborator
 
+**Saša Mladenović**  
+University of Split, Croatia  
+Local organizer
+
 The workshop initiative originates from the EQUISYS research project at Juraj Dobrila University of Pula and is being developed in collaboration with an international network of researchers.
 
 ## References
