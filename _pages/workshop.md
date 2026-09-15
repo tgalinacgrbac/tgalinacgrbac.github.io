@@ -23,6 +23,8 @@ redirect_from:
 > **SoftCOM 2026 dates:** 17-19 September 2026  
 > **Paper submission system (EDAS):** https://edas.info/newPaper.php?c=34571&track=140155
 
+**Following the SOFTCOM keynote discussion on autonomous AI agents, trust, governance, and changing human roles, the afternoon Research Alignment Workshop broadens the discussion towards systematic and human-centered adoption of LLM-based technologies across application domains.** See the [SOFTCOM 2026 conference timetable](https://2026.softcom.fesb.unist.hr/program/) for the keynote and workshop schedule.
+
 # Call for Participation
 
 ## Research Alignment Workshop II

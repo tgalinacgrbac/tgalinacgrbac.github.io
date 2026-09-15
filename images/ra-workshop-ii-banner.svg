@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
   <title id="title">Research Alignment Workshop II</title>
-  <desc id="desc">Banner for the Research Alignment Workshop II at SoftCOM 2026.</desc>
+  <desc id="desc">Research Alignment Workshop II, co-located with SoftCOM 2026 in Split, Croatia, on Friday, 18 September 2026, from 14:30 to 16:00.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0b2545"/>
@@ -22,6 +22,6 @@
     Co-located with SoftCOM 2026 | Split, Croatia
   </text>
   <text x="130" y="312" font-family="Verdana, Arial, sans-serif" font-size="22" fill="#dff3ff">
-    Workshop date: To be defined
+    Friday, 18.09.2026 | 14:30–16:00
   </text>
 </svg>
