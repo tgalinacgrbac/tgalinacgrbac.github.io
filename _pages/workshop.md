@@ -18,6 +18,8 @@ redirect_from:
 > **Workshop Quick Info**  
 > **Date:** Friday, 18.09.2026, 14:30–16:00  
 > **Venue:** Split, Croatia  
+> **Format:** Hybrid workshop (in person and online)  
+> **Physical venue:** Agava Room, Radisson Blu Hotel, Split, Croatia  
 > **Conference Context:** Co-located with SoftCOM 2026  
 > **Registration:** No additional registration fee applies to the workshop.  
 > **Official SoftCOM 2026 website:** https://2026.softcom.fesb.unist.hr/  
