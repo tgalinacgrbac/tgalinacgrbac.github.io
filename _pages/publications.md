@@ -69,7 +69,7 @@ Selected publications from the CV (May 2024):
         <li>
             <div class="pub-title">Human-Centered Exploration of Organizational Readiness for AI Adoption Before Deployment</div>
             <div class="pub-meta">Galinac Grbac, T.; Lacmanović, S.; Kontošić Pamić, R. Softcom 2026.</div>
-            <div class="pub-doi"><a href="/files/Softcom2026.pdf">Author manuscript (PDF)</a></div>
+            <div class="pub-doi"><a href="/files/Softcom2026.pdf">Author manuscript (PDF)</a> | <a href="/files/Softcom_2026_Presentation.pdf">Presentation (PDF)</a></div>
         </li>
         <li>
             <div class="pub-title">Towards an Architecture Theory for Trustworthy Operational Knowledge Construction</div>
