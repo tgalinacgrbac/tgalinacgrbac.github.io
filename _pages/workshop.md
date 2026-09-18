@@ -159,3 +159,7 @@ The workshop initiative originates from the EQUISYS research project at Juraj Do
 - Author manuscript (local copy): [MIPRO2026 (PDF)](/files/MIPRO2026.pdf)
 - Published version on IEEE Xplore: [Document 11592062](https://ieeexplore.ieee.org/document/11592062)
 - DOI: [10.1109/MIPRO70003.2026.11592062](https://doi.org/10.1109/MIPRO70003.2026.11592062)
+
+## Workshop Presentation
+
+[Download the Research Alignment Workshop presentation](/files/2%20Research%20Allignement%20Workshop%20.pptx)
