@@ -114,6 +114,12 @@ The workshop discussion will use the analytical framework introduced at MIPRO [1
 
 Participants are also encouraged to consider whether these questions sufficiently capture their adoption experience and whether additional dimensions should be considered.
 
+## Workshop Reflection Sheet
+
+Participants can submit their reflections using the form below. Short responses are sufficient, and questions may be left blank when they do not apply to the selected case.
+
+{% include workshop-reflection-form.html %}
+
 ## Publication Opportunities
 
 The workshop forms part of a broader coordinated research programme. Following the workshop, authors will be invited to submit substantially extended versions of their work to a planned special issue of the Journal of Communications Software and Systems (JCOMSS). The special issue will welcome both extended conference papers and independent case studies that contribute to the comparative study of human-centered LLM adoption using the proposed analytical framework.

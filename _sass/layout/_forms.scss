@@ -174,6 +174,74 @@ input[type="hidden"] {
   position: relative;
 }
 
+.workshop-reflection {
+  margin: 2em 0;
+  padding: 1.5em;
+  border: 1px solid mix(#fff, #000, 85%);
+  border-radius: $border-radius;
+  background: mix(#fff, #000, 97%);
+}
+
+.workshop-reflection form {
+  margin-top: 1.5em;
+}
+
+.workshop-reflection fieldset {
+  margin: 2em 0;
+  padding: 1em 0 0;
+  border-top: 2px solid mix(#fff, #000, 85%);
+}
+
+.workshop-reflection legend {
+  font-size: $type-size-4;
+  font-weight: 700;
+  border-bottom: 0;
+}
+
+.workshop-reflection label {
+  margin-top: 1em;
+  font-weight: 700;
+}
+
+.workshop-reflection label small,
+.workshop-reflection fieldset > small,
+.workshop-reflection p small {
+  font-weight: 400;
+}
+
+.workshop-reflection textarea {
+  margin-top: 0.35em;
+}
+
+.workshop-reflection__options {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.35em 1em;
+  margin: 0.75em 0 1em;
+}
+
+.workshop-reflection__options label {
+  margin-top: 0;
+  font-weight: 400;
+}
+
+.workshop-reflection__honeypot {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+}
+
+@media (max-width: 600px) {
+  .workshop-reflection {
+    padding: 1em;
+  }
+
+  .workshop-reflection__options {
+    grid-template-columns: 1fr;
+  }
+}
+
 .radio,
 .checkbox {
   padding-left: 18px;
