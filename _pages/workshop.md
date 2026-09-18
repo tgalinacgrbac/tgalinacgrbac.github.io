@@ -22,6 +22,7 @@ redirect_from:
 > **Physical venue:** Agava Room, Radisson Blu Hotel, Split, Croatia  
 > **Conference Context:** Co-located with SoftCOM 2026  
 > **Registration:** No additional registration fee applies to the workshop.  
+> **Reflection form:** [Open the SOFTCOM 2026 Reflection Sheet](https://docs.google.com/forms/d/e/1FAIpQLScgSJnFX1q7f_MDFFR0mKBtCVHGNfk2TnxAtDIDD4oncaIcCw/viewform?usp=publish-editor)
 > **Official SoftCOM 2026 website:** https://2026.softcom.fesb.unist.hr/  
 > **SoftCOM 2026 dates:** 17-19 September 2026  
 > **Paper submission system (EDAS):** https://edas.info/newPaper.php?c=34571&track=140155
@@ -118,7 +119,7 @@ Participants are also encouraged to consider whether these questions sufficientl
 
 Participants can submit their reflections using the form below. Short responses are sufficient, and questions may be left blank when they do not apply to the selected case.
 
-{% include workshop-reflection-form.html %}
+[Open the SOFTCOM 2026 Reflection Sheet in Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScgSJnFX1q7f_MDFFR0mKBtCVHGNfk2TnxAtDIDD4oncaIcCw/viewform?usp=publish-editor)
 
 ## Publication Opportunities
 
