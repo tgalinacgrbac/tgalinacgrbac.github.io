@@ -62,14 +62,14 @@ Selected publications from the CV (May 2024):
     <ol>
       
         <li>
-            <div class="pub-title">Human-Centered Adoption of LLMs in Industry and Society: Challenges, Opportunities, and Systemic Implications</div>
-            <div class="pub-meta">Galinac Grbac, T.,  Huljenić, D., MIPRO 2026.</div>
-            <div class="pub-doi"><a href="/files/MIPRO2026.pdf">Author manuscript (PDF)</a></div>
+            <div class="pub-title">Private Off-chain Resource Tracking and Orchestration: An Actor-Model Approach to Zero-Knowledge Computation</div>
+            <div class="pub-meta">Kathiravelu, P.; Galinac Grbac, T. ISSE 2026.</div>
+            <div class="pub-doi"><a href="/files/ISSE26_PORTO.pdf">Author manuscript (PDF)</a> | <a href="/files/ISSE26_PORTO_Presentation.pdf">Presentation (PDF)</a></div>
         </li>
         <li>
-            <div class="pub-title">Human-Centered Exploration of Organizational Readiness for AI Adoption Before Deployment</div>
-            <div class="pub-meta">Galinac Grbac, T.; Lacmanović, S.; Kontošić Pamić, R. Softcom 2026.</div>
-            <div class="pub-doi"><a href="/files/Softcom2026.pdf">Author manuscript (PDF)</a> | <a href="/files/Softcom_2026_Presentation.pdf">Presentation (PDF)</a></div>
+            <div class="pub-title">Integrated Guardrails for Unbiased and Adaptive Neural Network Architectures Decoupling Safety Telemetry from Core Inference</div>
+            <div class="pub-meta">Kathiravelu, P.; Galinac Grbac, T. ISSE 2026.</div>
+            <div class="pub-doi"><a href="/files/ISSE26_IGUANA_Presentation.pdf">Presentation (PDF)</a></div>
         </li>
         <li>
             <div class="pub-title">Towards an Architecture Theory for Trustworthy Operational Knowledge Construction</div>
@@ -77,9 +77,14 @@ Selected publications from the CV (May 2024):
             <div class="pub-doi"><a href="/files/SQAMIA2026.pdf">Author manuscript (PDF)</a> | <a href="/files/SQAMIA_2026_Galinac_Grbac.pdf">Presentation (PDF)</a></div>
         </li>
         <li>
-            <div class="pub-title">Private Off-chain Resource Tracking and Orchestration: An Actor-Model Approach to Zero-Knowledge Computation</div>
-            <div class="pub-meta">Kathiravelu, P.; Galinac Grbac, T. ISSE 2026.</div>
-            <div class="pub-doi"><a href="/files/ISSE26_PORTO.pdf">Author manuscript (PDF)</a></div>
+            <div class="pub-title">Human-Centered Exploration of Organizational Readiness for AI Adoption Before Deployment</div>
+            <div class="pub-meta">Galinac Grbac, T.; Lacmanović, S.; Kontošić Pamić, R. Softcom 2026.</div>
+            <div class="pub-doi"><a href="/files/Softcom2026.pdf">Author manuscript (PDF)</a> | <a href="/files/Softcom_2026_Presentation.pdf">Presentation (PDF)</a></div>
+        </li>
+        <li>
+            <div class="pub-title">Human-Centered Adoption of LLMs in Industry and Society: Challenges, Opportunities, and Systemic Implications</div>
+            <div class="pub-meta">Galinac Grbac, T.,  Huljenić, D., MIPRO 2026.</div>
+            <div class="pub-doi"><a href="/files/MIPRO2026.pdf">Author manuscript (PDF)</a></div>
         </li>
         <li>
             <div class="pub-title">The role of functional programming in management and orchestration of virtualized network resources. Part II</div>
