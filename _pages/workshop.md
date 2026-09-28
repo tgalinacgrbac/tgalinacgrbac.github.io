@@ -168,4 +168,4 @@ The workshop initiative originates from the EQUISYS research project at Juraj Do
 
 ## Workshop Presentation
 
-[Download the Research Alignment Workshop presentation](/files/2%20Research%20Allignement%20Workshop%20.pptx)
+[Download the Research Alignment Workshop presentation (PDF)](/files/2%20Research%20Allignement%20Workshop%20.pdf)
