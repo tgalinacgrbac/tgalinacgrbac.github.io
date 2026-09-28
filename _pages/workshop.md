@@ -47,6 +47,12 @@ redirect_from:
 
 *Synthesis of observations and discussion of future research and publication opportunities*
 
+## Case Study Presentations
+
+- **Case 1 – Payload-Aware Dynamic Precision Orchestration for Edge LLM Inference** — Dr. Rana Abu Bakarr.
+- **Case 2 – Network Management Reliability Enabled by LLM: Solving the Beaulieu-Xie Fading Challenge via Physical-Cognitive Synthesis** — Presenters: Nenad Petrović and Dragana Krstić. [Presentation slides (PDF)](/files/LLM_Driven_Network_Reliability%20final.pdf).
+- **Case 3 – Enhancing Operation Wisdom Logging Solution Utilizing Different Local LLMs for Security Anomaly Detection** — Presenter: Tomislav Žitnik. [Presentation (PDF)](/files/Operations_Wisdom_Logging_ENT_SoftCOM_2026_workshop-1.pdf).
+
 # Call for Participation
 
 ## Research Alignment Workshop II
