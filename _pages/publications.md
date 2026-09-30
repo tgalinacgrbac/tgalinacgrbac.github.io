@@ -69,7 +69,7 @@ Selected publications from the CV (May 2024):
         <li>
             <div class="pub-title">Integrated Guardrails for Unbiased and Adaptive Neural Network Architectures Decoupling Safety Telemetry from Core Inference</div>
             <div class="pub-meta">Kathiravelu, P.; Galinac Grbac, T. ISSE 2026.</div>
-            <div class="pub-doi"><a href="/files/ISSE26_IGUANA_Presentation.pdf">Presentation (PDF)</a></div>
+            <div class="pub-doi"><a href="/files/ISSE_26_IGUANA.pdf">Author manuscript (PDF)</a> | <a href="/files/ISSE26_IGUANA_Presentation.pdf">Presentation (PDF)</a></div>
         </li>
         <li>
             <div class="pub-title">Towards an Architecture Theory for Trustworthy Operational Knowledge Construction</div>
