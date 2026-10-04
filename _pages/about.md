@@ -28,6 +28,7 @@ She received a Ph.D. (2009) and M.Sc. (2005) from the University of Zagreb, Croa
 
 - Full Professor, Juraj Dobrila University of Pula (2018-present)
 - Head of SEIP Lab, Juraj Dobrila University of Pula (2018-present)
+- External associate, elected to a scientific-teaching title at the Faculty of Electrical Engineering and Computing, University of Zagreb
 - Scientific Advisor (highest scientific degree in Croatia)
 
 ## Profiles
